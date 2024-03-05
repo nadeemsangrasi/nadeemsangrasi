@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeemsangrasi&label=Profile%20views&color=0e75b6&style=flat" alt="nadeemsangrasi" /> </p>
 
-- 🌱 I’m currently learning **Type-Script**
+- 🌱 I’m currently learning **Type-Script && python**
 
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,GSAP**
