@@ -4,11 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeemsangrasi&label=Profile%20views&color=0e75b6&style=flat" alt="nadeemsangrasi" /> </p>
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning **Type-Script**
 
-- 👨‍💻 I am working at Fiver [https://www.fiverr.com/nadeemsangrasi?public_mode=true](https://www.fiverr.com/nadeemsangrasi?public_mode=true)
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,BOOTSTRAP,GSAP**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,GSAP**
 
 - 📫 How to reach me **nadeemsangrasi903@gmail.com**
 
