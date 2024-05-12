@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="coding picture" width="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0T7dL7xUGZ2y1zXV7Rc4YV&ust=1715614177954000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDK4IC3iIYDFQAAAAAdAAAAABAE">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeemsangrasi&label=Profile%20views&color=0e75b6&style=flat" alt="nadeemsangrasi" /> </p>
+
 
 - 🌱 I’m currently learning **Nextjs && Reactjs**
 
