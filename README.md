@@ -4,10 +4,10 @@
 
 
 
-- 🌱 I’m currently learning **Nextjs && Reactjs**
+- 🌱 I’m currently learning **FastAPI && Postgresql**
 
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,GSAP**
+- 💬 Ask me about **Next.js,React.js,Python,TypeScript,TailwindCSS,Sass,HTML,CSS,JAVASCRIPT,GSAP**
 
 - 📫 How to reach me **nadeemsangrasi903@gmail.com**
 
