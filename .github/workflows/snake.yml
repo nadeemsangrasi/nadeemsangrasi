@@ -2,7 +2,7 @@ name: Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Every day at midnight UTC
+    - cron: '0 0 * * *'  # Every day at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -16,8 +16,8 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v2.0.0
         with:
-          github_user: "nadeemsangrasi" # Your GitHub username
-          svg_out: "output/github-contribution-grid-snake.svg" # Output file name
+          github_user: "nadeemsangrasi"  # Your GitHub username
+          svg_out: "output/github-contribution-grid-snake.svg"  # Output file name
 
       - name: Commit and Push
         uses: EndBug/add-and-commit@v7
