@@ -5,13 +5,13 @@
 
 <br>
 
-<p align="center"> 
+<p aclign="center"> 
     <img src="https://komarev.com/ghpvc/?username=nadeemsangrasi&label=Profile%20views&color=0047AB&style=plastic" alt="Nadeem Khan" height=25px, width=160px/> 
 </p>
 
-## <picture><img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
-<picture> <img align="right" src="https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
