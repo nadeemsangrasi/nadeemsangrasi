@@ -121,16 +121,13 @@
   </table>
 </p>
 
-## 📅 GitHub Contributions
-## 📅 GitHub Contributions
+
+## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemsangrasi&layout=compact&theme=tokyonight" alt="Nadeem's GitHub Contributions" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemsangrasi&layout=compact&langs_count=6&theme=tokyonight&hide=css" alt="Nadeem's Most Used Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemsangrasi&theme=tokyonight" alt="Nadeem's GitHub Streak" />
-</p>
 
 
 
