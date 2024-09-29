@@ -128,9 +128,4 @@
   </table>
 </p>
 
-## 🐍 Contribution Graph
-
-<p align="center">
-    <img src="https://github.com/nadeemsangrasi/nadeemsangrasi/blob/output/github-contribution-grid-snake.svg?" alt="Contribution Graph"/>
-</p>
 
