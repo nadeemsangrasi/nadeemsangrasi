@@ -18,7 +18,7 @@
 - :computer: I am a **Fullstack Next.js Developer** specializing in **Next.js**, **TypeScript**, and **Tailwind CSS**.
 - :technologist: I love creating **dynamic and responsive** web applications.
 - :nerd_face: Always **learning new things** in the world of web development and aspiring to be a **GenAI Engineer**.
-- :thinking: I’m currently open for new **job opportunities**; this is [MY RESUME](https://nadeemkhan.vercel.app/assets/resume/NadeemKhanResume.pdf).
+- :thinking: I’m currently open for new **job opportunities**
 - :boom: You can visit [MY PORTFOLIO](https://nadeemkhan.vercel.app/).
 
 <br>
