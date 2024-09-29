@@ -124,7 +124,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nadeemsangrasi&theme=react-dark" alt="Nadeem's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadeemsangrasi&bg_color=0d1117&color=58a6ff&line=9e4c98&point=ffffff&area=true&hide_border=true" alt="Nadeem's Contribution Graph" />
 </p>
 
 
