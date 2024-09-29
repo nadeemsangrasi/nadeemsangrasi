@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nadeem Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Frontend+Developer;Next.js+Enthusiast;TypeScript+Pro;Always+Learning+New+Things">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Fullstack+Next.js+Developer;Aspiring+GenAI+Engineer;Always+Learning+New+Things">
 </p>
 
 <br>
@@ -9,15 +9,15 @@
     <img src="https://komarev.com/ghpvc/?username=nadeemsangrasi&label=Profile%20views&color=0047AB&style=plastic" alt="Nadeem Khan" height=25px, width=160px/> 
 </p>
 
-## <picture><img src="https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/about_me.gif?raw=true" width=50px></picture> About Me
+## <picture><img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
-<picture> <img align="right" src="https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Right_Side.gif?raw=true" width=250px></picture>
+<picture> <img align="right" src="https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
-- :computer: I am a **Frontend Developer** specializing in **Next.js**, **TypeScript**, and **Tailwind CSS**.
+- :computer: I am a **Fullstack Next.js Developer** specializing in **Next.js**, **TypeScript**, and **Tailwind CSS**.
 - :technologist: I love creating **dynamic and responsive** web applications.
-- :nerd_face: Always **learning new things** in the world of web development.
+- :nerd_face: Always **learning new things** in the world of web development and aspiring to be a **GenAI Engineer**.
 - :thinking: I’m currently open for new **job opportunities**; this is [MY RESUME](https://nadeemkhandev-nadeem-sangrasis-projects.vercel.app/assets/resume/NadeemKhanResume.pdf).
 - :boom: You can visit [MY PORTFOLIO](https://nadeemkhandev-nadeem-sangrasis-projects.vercel.app/).
 
@@ -32,7 +32,7 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src="https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Programming_Languages.gif?raw=true" width=50px>  </picture> Programming Languages
+### <picture> <img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming Languages
 
 <p align="center"> 
     &emsp; 
@@ -45,7 +45,7 @@
     </a>
 </p>
 
-### <picture> <img src="https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Front_End.gif?raw=true" width=50px>  </picture> Frontend Development
+### <picture> <img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center"> 
     &emsp; 
     <a href="https://www.w3.org/html/" target="_blank"> 
@@ -65,7 +65,7 @@
     </a>
 </p>
 
-### <picture> <img src="https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Software_Tools.gif?raw=true" width=50px>  </picture> Software & Tools
+### <picture> <img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
 <p align="center">
     &emsp;
