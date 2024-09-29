@@ -65,7 +65,7 @@
 <p align="center">
     <a href="https://www.typescriptlang.org/" target="_blank">
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=plastic&logo=typescript&logoColor=white">
-    </a>c
+    </a>
     &emsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
@@ -102,4 +102,12 @@
     <a href="https://www.sanity.io/" target="_blank">
         <img alt="Sanity" src="https://img.shields.io/badge/Sanity-00B233.svg?style=plastic&logo=sanity&logoColor=white">
     </a>
+</p>
+
+</br></br>
+	
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
