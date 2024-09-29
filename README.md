@@ -106,8 +106,23 @@
 
 </br></br>
 	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+## 📊 GitHub Stats & Contributions
+
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=nadeemsangrasi&show_icons=true&theme=radical" alt="Nadeem's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemsangrasi&theme=radical" alt="Nadeem's GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nadeemsangrasi&theme=react-dark" alt="Nadeem's Contribution Graph" />
+      </td>
+    </tr>
+  </table>
 </p>
+
