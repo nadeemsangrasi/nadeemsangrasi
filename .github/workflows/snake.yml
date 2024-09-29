@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3  # Using the latest checkout version
+        uses: actions/checkout@v3  # This is already the latest version
 
       - name: Generate Snake
         uses: Platane/snk@v3.0.0  # Ensure you're using the correct version
