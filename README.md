@@ -105,7 +105,14 @@
 </p>
 
 </br></br>
-	
+
+ ## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemsangrasi&layout=compact&langs_count=6&theme=tokyonight&hide=less,stylus,jinja&include_all_commits=true&hide_title=true" alt="Nadeem's Most Used Languages" />
+</p>
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -120,14 +127,3 @@
     </tr>
   </table>
 </p>
-
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemsangrasi&layout=compact&langs_count=6&theme=tokyonight&hide=less,stylus,jinja&include_all_commits=true&hide_title=true" alt="Nadeem's Most Used Languages" />
-</p>
-
-
-
-
-
