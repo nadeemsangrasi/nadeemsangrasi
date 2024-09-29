@@ -44,7 +44,7 @@
     </a>
 </p>
 
-### <picture> <img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Core_Frontend.gif?raw=true" width = 50px>  </picture> Core Front-End
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Core Front-End
 
 <p align="center">
     <a href="https://nextjs.org" target="_blank">
@@ -60,7 +60,8 @@
     </a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture>
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> languages
+ 
 <p align="center">
     <a href="https://www.typescriptlang.org/" target="_blank">
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=plastic&logo=typescript&logoColor=white">
@@ -75,7 +76,7 @@
     </a>
 </p>
 
-### <picture> <img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Front_End_Styles.gif?raw=true" width = 50px>  </picture> Front-End Styles
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture>  </picture> Front-End Styles
 
 <p align="center">
     <a href="https://www.w3.org/TR/CSS/" target="_blank">
@@ -91,7 +92,7 @@
     </a>
 </p>
 
-### <picture> <img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Headless_CMS.gif?raw=true" width = 50px>  </picture> Headless CMS
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture>  Headless CMS
 
 <p align="center">
     <a href="https://www.contentful.com/" target="_blank">
