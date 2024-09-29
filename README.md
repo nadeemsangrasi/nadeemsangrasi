@@ -32,7 +32,7 @@
 
 ## 🛠️ My Skills
 
-### <img src="https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/deployment.png" width="25px" alt="Deployment Icon"/> Deployment
+### <picture> <img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Deployment.gif?raw=true" width = 50px>  </picture> Deployment
 
 <p align="center">
     <a href="https://vercel.com" target="_blank">
@@ -44,7 +44,7 @@
     </a>
 </p>
 
-### <img src="https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/core_frontend.png" width="25px" alt="Core Front-End Icon"/> Core Front-End
+### <picture> <img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Core_Frontend.gif?raw=true" width = 50px>  </picture> Core Front-End
 
 <p align="center">
     <a href="https://nextjs.org" target="_blank">
@@ -60,7 +60,7 @@
     </a>
 </p>
 
-### <img src="https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/languages.png" width="25px" alt="Languages Icon"/> Languages
+### <picture> <img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Languages.gif?raw=true" width = 50px>  </picture> Languages
 
 <p align="center">
     <a href="https://www.typescriptlang.org/" target="_blank">
@@ -76,7 +76,7 @@
     </a>
 </p>
 
-### <img src="https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/front_end_styles.png" width="25px" alt="Front-End Styles Icon"/> Front-End Styles
+### <picture> <img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Front_End_Styles.gif?raw=true" width = 50px>  </picture> Front-End Styles
 
 <p align="center">
     <a href="https://www.w3.org/TR/CSS/" target="_blank">
@@ -92,7 +92,7 @@
     </a>
 </p>
 
-### <img src="https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/headless_cms.png" width="25px" alt="Headless CMS Icon"/> Headless CMS
+### <picture> <img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Headless_CMS.gif?raw=true" width = 50px>  </picture> Headless CMS
 
 <p align="center">
     <a href="https://www.contentful.com/" target="_blank">
