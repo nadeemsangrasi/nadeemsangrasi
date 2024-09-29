@@ -18,8 +18,8 @@
 - :computer: I am a **Fullstack Next.js Developer** specializing in **Next.js**, **TypeScript**, and **Tailwind CSS**.
 - :technologist: I love creating **dynamic and responsive** web applications.
 - :nerd_face: Always **learning new things** in the world of web development and aspiring to be a **GenAI Engineer**.
-- :thinking: I’m currently open for new **job opportunities**; this is [MY RESUME](https://nadeemkhandev-nadeem-sangrasis-projects.vercel.app/assets/resume/NadeemKhanResume.pdf).
-- :boom: You can visit [MY PORTFOLIO](https://nadeemkhandev-nadeem-sangrasis-projects.vercel.app/).
+- :thinking: I’m currently open for new **job opportunities**; this is [MY RESUME](https://nadeemkhan.vercel.app/assets/resume/NadeemKhanResume.pdf).
+- :boom: You can visit [MY PORTFOLIO](https://nadeemkhan.vercel.app/).
 
 <br>
 
@@ -124,8 +124,9 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemsangrasi&layout=compact&langs_count=6&theme=tokyonight&hide=less,stylus&include_all_commits=true&hide_title=true" alt="Nadeem's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemsangrasi&layout=compact&langs_count=6&theme=tokyonight&hide=less,stylus,jinja&include_all_commits=true&hide_title=true" alt="Nadeem's Most Used Languages" />
 </p>
+
 
 
 
