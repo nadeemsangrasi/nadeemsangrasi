@@ -11,13 +11,13 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3  # Updated to v3
+        uses: actions/checkout@v3  # Using the latest checkout version
 
       - name: Generate Snake
-        uses: Platane/snk@v3.0.0  # Updated to v3.0.0
+        uses: Platane/snk@v3.0.0  # Ensure you're using the correct version
         with:
           github_user_name: "nadeemsangrasi"  # Your GitHub username
-          svg_out: "output/github-contribution-grid-snake.svg"  # Output file name
+          entryPoint: "output/github-contribution-grid-snake.svg"  # Set the output path
 
       - name: Commit and Push
         uses: EndBug/add-and-commit@v7
