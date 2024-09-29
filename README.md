@@ -1,78 +1,103 @@
-# Nadeem Khan's Portfolio
+<h1 align="center">Hi, I'm Nadeem Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Frontend+Developer;Next.js+Enthusiast;TypeScript+Pro;Always+Learning+New+Things">
+</p>
 
-![Full-Stack Developer](https://img.icons8.com/color/48/000000/full-stack-developer.png)  
-**Full-Stack Next.js Developer**
+<br>
 
----
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=nadeemsangrasi&label=Profile%20views&color=0047AB&style=plastic" alt="Nadeem Khan" height=25px, width=160px/> 
+</p>
 
-## Technologies & Tools
+## <picture><img src="https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/about_me.gif?raw=true" width=50px></picture> About Me
 
-### Next.js
-![Next.js](https://img.icons8.com/color/48/000000/nextjs.png)  
-A powerful React framework for building server-side rendered and statically generated applications.
+<picture><img align="right" src="https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Right_Side.gif?raw=true" width=250px></picture>
 
-### TypeScript
-![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)  
-A superset of JavaScript that adds static types.
+<br><br>
 
-### Tailwind CSS
-![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png)  
-A utility-first CSS framework for creating custom designs.
+- :computer: I am a **Full-Stack Developer** specializing in **Next.js**, **TypeScript**, and **Tailwind CSS**.
+- :technologist: I love creating **dynamic and responsive** web applications.
+- :nerd_face: Always **learning new things** in the world of web development.
+- :thinking: I’m currently open for new **job opportunities**; this is [MY RESUME](https://nadeemkhandev-nadeem-sangrasis-projects.vercel.app/assets/resume/NadeemKhanResume.pdf).
+- :boom: You can visit [MY PORTFOLIO](https://nadeemkhandev-nadeem-sangrasis-projects.vercel.app/).
 
-### SASS
-![SASS](https://img.icons8.com/color/48/000000/sass.png)  
-A preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS).
+<br>
 
-### Sanity
-![Sanity](https://img.icons8.com/color/48/000000/sanity.png)  
-A headless CMS for structured content.
+## <picture><img src="https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Connect with Me
+<p align="center">
+    <a href="mailto:nadeemsangrasi@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="https://github.com/nadeemsangrasi"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://www.linkedin.com/in/nadeem-khan/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
-### FastAPI
-![FastAPI](https://img.icons8.com/color/48/000000/fastapi.png)  
-A modern, fast (high-performance) web framework for building APIs with Python.
+## 🛠️ My Skills
 
-### Docker
-![Docker](https://img.icons8.com/color/48/000000/docker.png)  
-A platform for developing, shipping, and running applications in containers.
+### <picture><img src="https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Programming_Languages.gif?raw=true" width=50px></picture> Programming Languages
 
-### Linux
-![Linux](https://img.icons8.com/color/48/000000/linux.png)  
-An open-source operating system modelled on UNIX.
+<p align="center"> 
+    &emsp; 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+    </a>
+    &emsp;
+    <a href="https://www.python.org" target="_blank">
+        <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+    </a>
+</p>
 
-### Cloud Native Principles
-![Cloud Native](https://img.icons8.com/color/48/000000/cloud-native.png)  
-Practices and technologies that enable scalable and resilient applications in the cloud.
+### <picture><img src="https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Front_End.gif?raw=true" width=50px></picture> Frontend Development
+<p align="center"> 
+    &emsp; 
+    <a href="https://www.w3.org/html/" target="_blank"> 
+        <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+    </a>   
+    &emsp;
+    <a href="https://www.w3schools.com/css/" target="_blank">
+        <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+    </a> 
+    &emsp;
+    <a href="https://reactjs.org/" target="_blank">
+        <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
+    </a>
+    &emsp;
+    <a href="https://tailwindcss.com/" target="_blank">
+        <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2E8.svg?style=plastic&logo=tailwind-css&logoColor=white">
+    </a>
+</p>
 
----
+### <picture><img src="https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Software_Tools.gif?raw=true" width=50px></picture> Software & Tools
+ 
+<p align="center">
+    &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+    &emsp;
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+    &emsp;
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
+    &emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
+</p>
 
-## Projects
-
-### [Car Showcase Site](https://carshowcase.example.com)
-A feature-rich site showcasing various cars with Next.js, Redux, and SASS.
-
-### [E-commerce Platform](https://ecommerce.example.com)
-A dynamic platform with user-friendly features developed using Next.js, Redux, and Tailwind CSS.
-
-### [Dynamic Quiz App](https://quizapp.example.com)
-An interactive quiz application built with Next.js, TypeScript, and Tailwind CSS.
-
-### [Feedback Message App](https://feedbackapp.example.com)
-A user-friendly feedback system created with Next.js, NextAuth, Tailwind CSS, and MongoDB.
-
----
-
-## Learning Journey
-
-- **FastAPI**: Exploring how to build APIs quickly and efficiently.
-- **Docker**: Understanding containerization and deployment strategies.
-- **Linux**: Gaining proficiency in operating system management.
-- **Cloud Native Principles**: Learning best practices for building scalable applications in the cloud.
-
----
-
-## Contact
-
-- [LinkedIn](https://www.linkedin.com/in/nadeemkhan/)
-- [GitHub](https://github.com/nadeemsangrasi)
-
-Feel free to reach out for collaboration or any inquiries!
+### <picture><img src="https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Additional_Technologies.gif?raw=true" width=50px></picture> Additional Technologies
+<p align="center">
+    &emsp;
+    <a href="https://www.sanity.io/" target="_blank">
+        <img alt="Sanity" src="https://img.shields.io/badge/Sanity-FF4081.svg?style=plastic&logo=sanity&logoColor=white">
+    </a>
+    &emsp;
+    <a href="https://fastapi.tiangolo.com/" target="_blank">
+        <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571.svg?style=plastic&logo=fastapi&logoColor=white">
+    </a>
+    &emsp;
+    <a href="https://www.docker.com/" target="_blank">
+        <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=plastic&logo=docker&logoColor=white">
+    </a>
+    &emsp;
+    <a href="https://www.linux.org/" target="_blank">
+        <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?style=plastic&logo=linux&logoColor=black">
+    </a>
+    &emsp;
+    <a href="https://cloudnative.dev/" target="_blank">
+        <img alt="Cloud Native" src="https://img.shields.io/badge/Cloud%20Native-007ACC.svg?style=plastic&logo=cloudnative&logoColor=white">
+    </a>
+</p>
