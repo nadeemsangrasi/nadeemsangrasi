@@ -128,6 +128,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemsangrasi&layout=compact&langs_count=6&theme=tokyonight&hide=css" alt="Nadeem's Most Used Languages" />
 </p>
 
+## 📅 GitHub Contributions
+
+<p align="center">
+  <img src="https://github.com/nadeemsangrasi/nadeemsangrasi/blob/output/github-contribution-grid-snake.svg" alt="Nadeem's Contribution Snake" />
+</p>
 
 
 
