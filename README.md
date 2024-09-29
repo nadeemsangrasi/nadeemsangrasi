@@ -9,9 +9,9 @@
     <img src="https://komarev.com/ghpvc/?username=nadeemsangrasi&label=Profile%20views&color=0047AB&style=plastic" alt="Nadeem Khan" height=25px, width=160px/> 
 </p>
 
-## <picture><img src="https://raw.githubusercontent.com/nadeemsangrasi/nadeemsangrasi/main/Images/about_me.gif" width="50px"></picture> About Me
+## <picture><img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/nadeemsangrasi/nadeemsangrasi/main/Images/Right_Side.gif" width="250px"></picture>
+<picture> <img align="right" src="https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
@@ -23,7 +23,7 @@
 
 <br>
 
-## <picture> <img src="https://raw.githubusercontent.com/nadeemsangrasi/nadeemsangrasi/main/Images/Connect-with-me.gif" width="100px"> </picture> Connect with Me
+## <picture> <img src="https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with Me
 <p align="center">
     <a href="mailto:nadeemsangrasi@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
     <a href="https://github.com/nadeemsangrasi"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -32,7 +32,7 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src="https://raw.githubusercontent.com/nadeemsangrasi/nadeemsangrasi/main/Images/Programming_Languages.gif" width="50px">  </picture> Programming Languages
+### <picture> <img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming Languages
 
 <p align="center"> 
     &emsp; 
@@ -45,7 +45,7 @@
     </a>
 </p>
 
-### <picture> <img src="https://raw.githubusercontent.com/nadeemsangrasi/nadeemsangrasi/main/Images/Front_End.gif" width="50px">  </picture> Frontend Development
+### <picture> <img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center"> 
     &emsp; 
     <a href="https://www.w3.org/html/" target="_blank"> 
@@ -65,7 +65,7 @@
     </a>
 </p>
 
-### <picture> <img src="https://raw.githubusercontent.com/nadeemsangrasi/nadeemsangrasi/main/Images/Software_Tools.gif" width="50px">  </picture> Software & Tools
+### <picture> <img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
 <p align="center">
     &emsp;
