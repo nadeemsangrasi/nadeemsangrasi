@@ -122,10 +122,15 @@
 </p>
 
 ## 📅 GitHub Contributions
+## 📅 GitHub Contributions
 
 <p align="center">
-  <img src="https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/github-contribution-grid-snake.svg" alt="Nadeem's Contributions Graph" />
-</p
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemsangrasi&layout=compact&theme=tokyonight" alt="Nadeem's GitHub Contributions" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemsangrasi&theme=tokyonight" alt="Nadeem's GitHub Streak" />
+</p>
 
 
 
