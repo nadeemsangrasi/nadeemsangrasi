@@ -106,7 +106,7 @@
 
 </br></br>
 	
-## 📊 GitHub Stats & Contributions
+## 📊 GitHub Stats
 
 <p align="center">
   <table>
@@ -118,11 +118,13 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemsangrasi&theme=radical" alt="Nadeem's GitHub Streak" />
       </td>
     </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nadeemsangrasi&theme=react-dark" alt="Nadeem's Contribution Graph" />
-      </td>
-    </tr>
   </table>
 </p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nadeemsangrasi&theme=react-dark" alt="Nadeem's Contribution Graph" />
+</p>
+
 
