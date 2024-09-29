@@ -60,8 +60,20 @@
     </a>
 </p>
 
-### <picture> <img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Languages.gif?raw=true" width = 50px>  </picture> Languages
-
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> languages
+<p align="center">  
+     <a href="https://www.typescriptlang.org/" target="_blank">
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=plastic&logo=typescript&logoColor=white">
+    </a>
+    &emsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+    </a>
+    &emsp;
+    <a href="https://www.python.org/" target="_blank">
+        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=plastic&logo=python&logoColor=white">
+    </a>
+</p>
 <p align="center">
     <a href="https://www.typescriptlang.org/" target="_blank">
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=plastic&logo=typescript&logoColor=white">
