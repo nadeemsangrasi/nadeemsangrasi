@@ -1,0 +1,28 @@
+name: Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3  # This is the latest version
+
+      - name: Generate Snake
+        uses: Platane/snk@v3.0.0  # Ensure to use the most recent version
+        with:
+          github_user_name: "nadeemsangrasi"  # Your GitHub username
+          entryPoint: "output/github-contribution-grid-snake.svg"  # Correct output path
+
+      - name: Commit and Push
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: "github-actions[bot]"
+          author_email: "github-actions[bot]@users.noreply.github.com"
+          message: "Update contribution graph"
+          add: "output/github-contribution-grid-snake.svg"
