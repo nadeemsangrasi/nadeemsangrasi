@@ -32,48 +32,74 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming Languages
+### <picture> <img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Deployment.gif?raw=true" width = 50px>  </picture> Deployment
 
-<p align="center"> 
-    &emsp; 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+<p align="center">
+    <a href="https://vercel.com" target="_blank">
+        <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?style=plastic&logo=vercel&logoColor=white">
     </a>
     &emsp;
-    <a href="https://www.python.org" target="_blank">
-        <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+    <a href="https://github.com" target="_blank">
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=plastic&logo=github&logoColor=white">
     </a>
 </p>
 
-### <picture> <img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
-<p align="center"> 
-    &emsp; 
-    <a href="https://www.w3.org/html/" target="_blank"> 
-        <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-    </a>   
+### <picture> <img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Core_Frontend.gif?raw=true" width = 50px>  </picture> Core Front-End
+
+<p align="center">
+    <a href="https://nextjs.org" target="_blank">
+        <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=plastic&logo=next.js&logoColor=white">
+    </a>
     &emsp;
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-    </a> 
+    <a href="https://reactjs.org" target="_blank">
+        <img alt="React.js" src="https://img.shields.io/badge/React-61DAFB.svg?style=plastic&logo=react&logoColor=black">
+    </a>
     &emsp;
-    <a href="https://reactjs.org/" target="_blank">
-        <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
+    <a href="https://redux.js.org" target="_blank">
+        <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?style=plastic&logo=redux&logoColor=white">
+    </a>
+</p>
+
+### <picture> <img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Languages.gif?raw=true" width = 50px>  </picture> Languages
+
+<p align="center">
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=plastic&logo=typescript&logoColor=white">
+    </a>
+    &emsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+    </a>
+    &emsp;
+    <a href="https://www.python.org/" target="_blank">
+        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=plastic&logo=python&logoColor=white">
+    </a>
+</p>
+
+### <picture> <img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Front_End_Styles.gif?raw=true" width = 50px>  </picture> Front-End Styles
+
+<p align="center">
+    <a href="https://www.w3.org/TR/CSS/" target="_blank">
+        <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=plastic&logo=css3&logoColor=white">
     </a>
     &emsp;
     <a href="https://tailwindcss.com/" target="_blank">
-        <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2E8.svg?style=plastic&logo=tailwind-css&logoColor=white">
+        <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2E8.svg?style=plastic&logo=tailwind-css&logoColor=white">
+    </a>
+    &emsp;
+    <a href="https://sass-lang.com/" target="_blank">
+        <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?style=plastic&logo=sass&logoColor=white">
     </a>
 </p>
 
-### <picture> <img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
- 
+### <picture> <img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Headless_CMS.gif?raw=true" width = 50px>  </picture> Headless CMS
+
 <p align="center">
+    <a href="https://www.contentful.com/" target="_blank">
+        <img alt="Contentful" src="https://img.shields.io/badge/Contentful-7D5B1A.svg?style=plastic&logo=contentful&logoColor=white">
+    </a>
     &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
+    <a href="https://www.sanity.io/" target="_blank">
+        <img alt="Sanity" src="https://img.shields.io/badge/Sanity-00B233.svg?style=plastic&logo=sanity&logoColor=white">
+    </a>
 </p>
