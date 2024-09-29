@@ -32,7 +32,7 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/Images/Deployment.gif?raw=true" width = 50px>  </picture> Deployment
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Deployment
 
 <p align="center">
     <a href="https://vercel.com" target="_blank">
@@ -76,7 +76,7 @@
     </a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture>  </picture> Front-End Styles
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Front-End Styles
 
 <p align="center">
     <a href="https://www.w3.org/TR/CSS/" target="_blank">
