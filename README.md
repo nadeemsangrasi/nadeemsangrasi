@@ -121,10 +121,11 @@
   </table>
 </p>
 
-## 📈 Contribution Graph
+## 📅 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadeemsangrasi&bg_color=0d1117&color=58a6ff&line=9e4c98&point=ffffff&area=true&hide_border=true" alt="Nadeem's Contribution Graph" />
-</p>
+  <img src="https://github.com/nadeemsangrasi/nadeemsangrasi/blob/main/github-contribution-grid-snake.svg" alt="Nadeem's Contributions Graph" />
+</p
+
 
 
